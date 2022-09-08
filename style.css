@@ -52,19 +52,6 @@ body {
   padding-top: 2.5rem;
 }
 
-.box h3 {
-  position: absolute;
-  top: 20%;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.box i {
-  position: absolute;
-  bottom: 20%;
-  left: 50%;
-  transform: translateX(-50%);
-}
 
 .active {
   border: 0.1rem solid red;
